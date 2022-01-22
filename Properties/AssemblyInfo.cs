@@ -1,15 +1,14 @@
 ﻿using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ClosePrompt")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("ClosePrompt64")]
+[assembly: AssemblyDescription("Shows confirmation prompt message to confirm exit")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ClosePrompt")]
+[assembly: AssemblyProduct("ClosePrompt64")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
